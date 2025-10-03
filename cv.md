@@ -51,7 +51,7 @@ console.log(bubbleSort(numbers)); // [1, 2, 5, 7, 9]
 
 I only had experience writing term papers.
 
-## Образование 
+## Education 
 
 |    Year    | Educational institution |       Specialty      | 
 |------------|-------------------------|----------------------|
