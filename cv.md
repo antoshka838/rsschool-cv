@@ -50,3 +50,9 @@ console.log(bubbleSort(numbers)); // [1, 2, 5, 7, 9]
 ## Experience
 
 I only had experience writing term papers.
+
+## Образование 
+
+|    Year    | Educational institution |       Specialty      | 
+|------------|-------------------------|----------------------|
+|    2022    |          BSUIR          |   Systems Engineer   |
