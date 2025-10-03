@@ -6,7 +6,7 @@
 
 * **email:** anivanov1987788990012@gmail.com
 * **Telegram:** @antoshka_iv
-* **Github:** https://github.com/antoshka838
+* **Github:** [antoshka838](https://github.com/antoshka838)
 
 # Summary
 
